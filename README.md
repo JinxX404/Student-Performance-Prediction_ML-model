@@ -30,7 +30,3 @@ This project predicts student final grades using machine learning models trained
 
 - The GUI allows you to input student features and predicts the final grade using the trained model.
 - The notebook provides step-by-step data analysis and model building.
-
-## Dataset
-
-The dataset (`student-mat.csv`) is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance).
